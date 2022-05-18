@@ -13,7 +13,8 @@
 pid_t getpid(void);                                                                                                                   
 pid_t getppid(void);                                                                                                                  
                                                                                                                                       
-int main(){                                                                                                                           
+int main()
+{                                                                                                                           
                                                                                                                                       
         printf("%d\n", getpid());                                                                                                     
         printf("%d\n", getppid());                                                                                                    

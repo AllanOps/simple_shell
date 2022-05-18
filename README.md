@@ -1,0 +1,1 @@
+This project is by Esther and Allan as we learn how to create our own command line interpreter for UNIX system (Simple Shell). A shell is CLI interpreter that simply passes commands to the operating system and displays the output.
